@@ -3,7 +3,7 @@
 * Find traffic assignment value at User Equilibrium, by FWA.
 * Network & OD File : Sioux-Falls Network
 
-![Sioux-Falls Network](/dataset/.Sioux-Falls-Network_img.jpg)
+![Sioux-Falls Network](/dataset/Sioux-Falls-Network_img.jpg)
 (image created by Changhyun Kwon, https://www.researchgate.net/profile/Changhyun-Kwon)
 
 ## Shortest Path Algorithm
