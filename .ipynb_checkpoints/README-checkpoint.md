@@ -4,7 +4,7 @@
 * Network & OD File : Sioux-Falls Network
 
 ![Sioux-Falls Network](/dataset/Sioux-Falls-Network_img.jpg)
-(image created by Changhyun Kwon, https://www.researchgate.net/profile/Changhyun-Kwon)
+(image created by ![Changhyun Kwon](https://www.researchgate.net/profile/Changhyun-Kwon))
 
 ## Shortest Path Algorithm
 * **`SPA_Dijkstra_ver1.ipynb`** : Dijkstra Method, ver.1
