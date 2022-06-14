@@ -12,6 +12,6 @@
 ## Result
 ### Link Travel Volume at UE
 ### Z(x)
-![Z(x)](/result/z.png)
+![Z(x)](/result/z.jpg)
 ### Convergence Score
-![Convergence Score](/result/convergence_score.png)
+![Convergence Score](/result/convergence_score.jpg)
