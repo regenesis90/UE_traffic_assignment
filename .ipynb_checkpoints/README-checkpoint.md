@@ -14,7 +14,7 @@
 
 ## Frank-Wolfe Algorithm
 * **`UE_Frank_Wolfe_Algorithm_Tutorial.ipynb`** : Frank-Wolfe Algorithm, Step by Step Tutorial
-* **`UE_Frank_wolfe_Algorithm_RUN.ipynb`** : RUN Frank-Wolfe Algorithm with Dijkstra(ver.2)
+* **`UE_Frank_wolfe_Algorithm_RUN.ipynb`** : RUN Frank-Wolfe Algorithm(with SPA : Dijkstra ver.2)
 
 ## Result
 ### Link Travel Volume at UE
